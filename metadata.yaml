@@ -1,0 +1,29 @@
+_repo: The-Childrens-Story-of-the-War-Volume-3--of-10-From-the-First-Battle-of-Ypres-to-the-End-of-t__35355
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35355-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Parrott, Edward
+    alias: Parrott, James Edward
+    birthdate: 1863
+    deathdate: 1921
+    gutenberg_agent_id: '37589'
+    url: http://www.gutenberg.org/2009/agents/37589
+description: ''
+gutenberg_issued: '2011-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35355'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Juvenile literature'
+- !lcc 'D501'
+title: 'The Childrens'' Story of the War, Volume 3 (of 10)
+
+  From the First Battle of Ypres to the End of the Year 1914'
+url: http://www.gutenberg.org/ebooks/35355
